@@ -24,3 +24,8 @@ Afterthought:
 1. boarden the word embedding feature could be a easy violent solution.
 2. attention-based methods could work. Try other attentions!
 3. tuning the hyperparameters would be the last things to do because it's boring and unefficient(you can try use smaller batch size)
+
+
+
+reference:
+https://colab.research.google.com/drive/16d1Xox0OW-VNuxDn1pvy2UXFIPfieCb9
